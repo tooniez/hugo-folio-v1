@@ -41,7 +41,7 @@
     "@babel/cli": "^7.18",
     "@babel/core": "^8.1",
     "@babel/preset-env": "^8.0",
-    "@fullhuman/postcss-purgecss": "^5.0",
+    "@fullhuman/postcss-purgecss": "^9.1",
     "@hyas/images": "^3.2.0",
     "auto-changelog": "^2.4",
     "autoprefixer": "^10.4",
